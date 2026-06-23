@@ -29,6 +29,7 @@ Target:
 ### 1. Data Loading
 - Load training and testing datasets.
 - Inspect data structure and classes.
+- https://colab.research.google.com/drive/1LcJTnYKcNnMZwrdDAJs47_wYr-Lm8uDm#scrollTo=aYUtZ4g5lf3E&fullscreenOutput=true
  
 ### 2. Text Preprocessing
 - Combine Title and Description.
