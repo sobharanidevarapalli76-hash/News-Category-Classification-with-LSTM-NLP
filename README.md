@@ -29,6 +29,7 @@ Target:
 ### 1. Data Loading
 - Load training and testing datasets.
 - Inspect data structure and classes.
+  print(df.to_markdown(index=False))
 
 ### 2. Text Preprocessing
 - Combine Title and Description.
