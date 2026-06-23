@@ -77,6 +77,10 @@ Metrics used:
 - Training Loss Curve
 - Validation Loss Curve
 
+## Project Screenshot
+
+![News Category Classification](images.jpg)
+
 ## Technologies Used
 
 - Python
