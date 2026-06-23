@@ -29,7 +29,7 @@ Target:
 ### 1. Data Loading
 - Load training and testing datasets.
 - Inspect data structure and classes.
- ![News Category Classification](Screenshot 2026-06-23 173659.png)
+
 
  
 ### 2. Text Preprocessing
